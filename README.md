@@ -2,20 +2,21 @@
 
 ## Education
 ### B.S., Computational Biology | Tufts University (_December 2023_)
-Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Major (Computer Science, Biology, Applied Mathematics)
+- Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Major (Computer Science, Biology, Applied Mathematics)
 
 ## Projects 
-### Undergraduate Thesis 
-Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build an enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. 
+### Undergraduate Thesis - [plinkQC](https://meyer-lab-cshl.github.io/plinkQC/)
 
-[Publication](https://meyer-lab-cshl.github.io/plinkQC/)
+Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build and enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. 
 
+![plinkQC Presentation](/assets/img/front_cover.jpeg)
+
+- [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7161801163535773696/)
 - Maybe a link to its own project page?
 - Can include pic of me presenting
 - Can include honors declaration
 - can include written portion of proj?
 
-![plinkQC Presentation](/assets/img/front_cover.jpeg)
 
 ## Work Experience
 ### Volunteer Research Assistant - Cold Spring Harbor Laboratory - Meyer Laboratory 
@@ -59,12 +60,16 @@ Led the team to the NCAA National Championship game (2021 & 2022). The team is a
 ### [Player Profile](https://gotuftsjumbos.com/sports/womens-lacrosse/roster/caroline-walter/12558)
 ### ![Summer Spotlight Article](https://nescac.com/news/2023/8/10/summer-spotlight-caroline-walter-tufts-womens-lacrosse.aspx)
 
+## Skills
+Technical Skills: R Programming Language, Python, JavaScript, SQL, C++, TypeScript, Bash, Markdown, Microsoft Excel, HTML, React, Node.js, GraphQL, REST API Development, SonarQube, Cypress, GitHub, GitLab, Docker, VSCode, Google GO, Tailwind CSS, Data Quality Control, Data Visualization, Data Analytics, Full-Stack Engineering, Database Management, Software Development Lifecycle. 
+Scientific Skills: Bioinformatics, Computational Biology, Genomics, Metabolomics, Life Sciences, Biological Processes.  
+
 
 ## Awards
-- Dean's List every year
-- 3x IWLCA Academic Honor Roll - For 
+- 2x IWLCA Academic Honor Roll - For maintaining a GPA of 3.50 or above during junior or senior season.
+- 3x NESCAC All-Academic Team - S
 - Highest Honors Designation on Undergraduate Honors Thesis 
-
+- Dean's List every year
 
 
 
