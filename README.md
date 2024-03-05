@@ -1,7 +1,7 @@
 # Caroline Walter Portfolio Website 
 
 ## Education
-### Tufts University - Bachelor of Science Degree in Computational Biology
+### B.S., Computational Biology | Tufts University (_December 2023_)
 Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Major (Computer Science, Biology, Applied Mathematics)
 
 ## Work Experience
@@ -39,11 +39,14 @@ June - August 2021
 ## Projects 
 ### Undergraduate Thesis 
 Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build an enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. 
+[Publication](https://meyer-lab-cshl.github.io/plinkQC/)
 
 - Maybe a link to its own project page?
 - Can include pic of me presenting
 - Can include honors declaration
 - can include written portion of proj?
+
+![plinkQC Presentation](/assets/img/front_cover.jpeg)
 
 
 
