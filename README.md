@@ -51,7 +51,7 @@ Received Highest Honors Designation on Senior Honors Thesis for a major in Compu
 ## Extracurriculars 
 ### TUFTS UNIVERSITY NCAA DIVISION III WOMEN’S LACROSSE TEAM MEMBER
 Led the team to the NCAA National Championship game (2021 & 2022). The team is annually ranked top five in the nation. Successfully managed demanding expectations in the classroom and on the team, fostering teamwork, discipline, and great communication.
-![Playing](/assets/img/playing.jpeg)
+![Playing](/assets/img/playing.JPG)
 - [Player Profile](https://gotuftsjumbos.com/sports/womens-lacrosse/roster/caroline-walter/12558)
 - [Summer Spotlight Article](https://nescac.com/news/2023/8/10/summer-spotlight-caroline-walter-tufts-womens-lacrosse.aspx)
 
