@@ -4,6 +4,7 @@
 ### B.S., Computational Biology | Tufts University (_December 2023_)
 - Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Major (Computer Science, Biology, Applied Mathematics)
 
+<a id="projects-section"></a>
 ## Projects 
 ### Undergraduate Thesis - [plinkQC](https://meyer-lab-cshl.github.io/plinkQC/)
 
@@ -26,7 +27,7 @@ May 2020 - Present
 - Manipulated and analyzed PBMC (peripheral mono-nuclear blood cell) data relating to metabolomics, the chemical processes of metabolites, and immune cell states in an endurance exercise setting.
 - Programmed data-driven models with R to develop and draw conclusions about metabolomics in the human body during rigorous exercise.
 - Regularly presented findings to scientists and the Lab Community.
-- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](## Projects)).    
+- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](#projects-section)).    
 
 ### Engineering Intern @ Elevance Health
 June - September 2023
