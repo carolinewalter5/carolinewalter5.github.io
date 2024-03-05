@@ -12,10 +12,13 @@ Received Highest Honors Designation on Senior Honors Thesis for a major in Compu
 ![plinkQC Presentation](/assets/img/front_cover.jpeg)
 
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7161801163535773696/)
+
+<!-- 
 - Maybe a link to its own project page?
 - Can include pic of me presenting
 - Can include honors declaration
 - can include written portion of proj?
+-->
 
 
 ## Work Experience
@@ -56,20 +59,24 @@ June - August 2021
 ## Extracurriculars 
 ### TUFTS UNIVERSITY NCAA DIVISION III WOMEN’S LACROSSE TEAM MEMBER
 Led the team to the NCAA National Championship game (2021 & 2022). The team is annually ranked top five in the nation. Successfully managed demanding expectations in the classroom and on the team, fostering teamwork, discipline, and great communication.
-![Playing](/assets/img/playing.JPG)]
+![Playing](/assets/img/playing.JPG)
 ### [Player Profile](https://gotuftsjumbos.com/sports/womens-lacrosse/roster/caroline-walter/12558)
 ### ![Summer Spotlight Article](https://nescac.com/news/2023/8/10/summer-spotlight-caroline-walter-tufts-womens-lacrosse.aspx)
 
 ## Skills
-Technical Skills: R Programming Language, Python, JavaScript, SQL, C++, TypeScript, Bash, Markdown, Microsoft Excel, HTML, React, Node.js, GraphQL, REST API Development, SonarQube, Cypress, GitHub, GitLab, Docker, VSCode, Google GO, Tailwind CSS, Data Quality Control, Data Visualization, Data Analytics, Full-Stack Engineering, Database Management, Software Development Lifecycle. 
-Scientific Skills: Bioinformatics, Computational Biology, Genomics, Metabolomics, Life Sciences, Biological Processes.  
+<Technical Skills:> R Programming Language, Python, JavaScript, SQL, C++, TypeScript, Bash, Markdown, Microsoft Excel, HTML, React, Node.js, GraphQL, REST API Development, SonarQube, Cypress, GitHub, GitLab, Docker, VSCode, Google GO, Tailwind CSS, Data Quality Control, Data Visualization, Data Analytics, Full-Stack Engineering, Database Management, Software Development Lifecycle. 
+
+<Scientific Skills:> Bioinformatics, Computational Biology, Genomics, Metabolomics, Life Sciences, Biological Processes.  
 
 
 ## Awards
 - 2x IWLCA Academic Honor Roll - For maintaining a GPA of 3.50 or above during junior or senior season.
-- 3x NESCAC All-Academic Team - S
+- 2x NESCAC All-Academic Team
 - Highest Honors Designation on Undergraduate Honors Thesis 
 - Dean's List every year
 
 
+## Contact Information
+Personal Email: carowalter26@hotmail.com
+Cell Phone: +1-631-624-5872
 
