@@ -4,12 +4,26 @@
 ### B.S., Computational Biology | Tufts University (_December 2023_)
 Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Major (Computer Science, Biology, Applied Mathematics)
 
+## Projects 
+### Undergraduate Thesis 
+Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build an enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. 
+
+[Publication](https://meyer-lab-cshl.github.io/plinkQC/)
+
+- Maybe a link to its own project page?
+- Can include pic of me presenting
+- Can include honors declaration
+- can include written portion of proj?
+
+![plinkQC Presentation](/assets/img/front_cover.jpeg)
+
 ## Work Experience
 ### Volunteer Research Assistant - Cold Spring Harbor Laboratory - Meyer Laboratory 
 May 2020 - Present 
 - Manipulated and analyzed PBMC (peripheral mono-nuclear blood cell) data relating to metabolomics, the chemical processes of metabolites, and immune cell states in an endurance exercise setting.
 - Programmed data-driven models with R to develop and draw conclusions about metabolomics in the human body during rigorous exercise.
 - Regularly presented findings to scientists and the Lab Community.
+- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](### Undergraduate Thesis).    
 
 ### Engineering Intern @ Elevance Health
 June - September 2023
@@ -36,18 +50,7 @@ June - August 2021
 - Create picture edits for recruitment purposes. (College commitments, Thank you edits for showcases/camps)
 
 
-## Projects 
-### Undergraduate Thesis 
-Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build an enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. 
 
-[Publication](https://meyer-lab-cshl.github.io/plinkQC/)
-
-- Maybe a link to its own project page?
-- Can include pic of me presenting
-- Can include honors declaration
-- can include written portion of proj?
-
-![plinkQC Presentation](/assets/img/front_cover.jpeg)
 
 ## Extracurriculars 
 ### TUFTS UNIVERSITY NCAA DIVISION III WOMEN’S LACROSSE TEAM MEMBER
