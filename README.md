@@ -13,12 +13,11 @@ Received Highest Honors Designation on Senior Honors Thesis for a major in Compu
 
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7161801163535773696/)
 
-<!-- 
-- Maybe a link to its own project page?
-- Can include pic of me presenting
-- Can include honors declaration
-- can include written portion of proj?
--->
+<!-- Maybe a link to its own project page? -->
+<!-- Can include pic of me presenting -->
+<!--  Can include honors declaration -->
+<!--  can include written portion of proj? -->
+
 
 
 ## Work Experience
@@ -27,7 +26,7 @@ May 2020 - Present
 - Manipulated and analyzed PBMC (peripheral mono-nuclear blood cell) data relating to metabolomics, the chemical processes of metabolites, and immune cell states in an endurance exercise setting.
 - Programmed data-driven models with R to develop and draw conclusions about metabolomics in the human body during rigorous exercise.
 - Regularly presented findings to scientists and the Lab Community.
-- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](### Undergraduate Thesis).    
+- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](## Projects).    
 
 ### Engineering Intern @ Elevance Health
 June - September 2023
