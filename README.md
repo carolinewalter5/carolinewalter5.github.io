@@ -1,24 +1,24 @@
-# Caroline Walter Portfolio Website 
+# About Me...
 
 ## Education
 ### B.S., Computational Biology | Tufts University (_December 2023_)
-- Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Major (Computer Science, Biology, Applied Mathematics)
+- Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Studies Major Combining Computer Science, Biology, and Applied Mathematics.
 
 <a id="projects-section"></a>
 ## Projects 
 ### Undergraduate Thesis - [plinkQC](https://meyer-lab-cshl.github.io/plinkQC/)
 
-Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build and enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. 
+Received Highest Honors Designation on Senior Honors Thesis for a major in Computational Biology, Department of Interdisciplinary Studies. 
+
+Partnered with the Meyer Laboratory at the Cold Spring Harbor Laboratory to build and enhance a CRAN-indexed R-package based on PLINK that performs a range of basic, large-scale statistical analyses, allows for robust, customizable quality control (QC) on genomic data for Genome-Wide Association Studies (GWAS), and offers improved implementation for identifying diverse ancestries and their subsequent association studies, ensuring more inclusivity across GWAS. ([LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7161801163535773696/))
 
 ![plinkQC Presentation](/assets/img/front_cover.jpeg)
 
-- [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7161801163535773696/)
 
 <!-- Maybe a link to its own project page? -->
 <!-- Can include pic of me presenting -->
 <!--  Can include honors declaration -->
 <!--  can include written portion of proj? -->
-
 
 
 ## Work Experience
@@ -27,7 +27,7 @@ May 2020 - Present
 - Manipulated and analyzed PBMC (peripheral mono-nuclear blood cell) data relating to metabolomics, the chemical processes of metabolites, and immune cell states in an endurance exercise setting.
 - Programmed data-driven models with R to develop and draw conclusions about metabolomics in the human body during rigorous exercise.
 - Regularly presented findings to scientists and the Lab Community.
-- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](#projects-section)).    
+- 2023 - plinkQC Project for Genome-Wide Association Studies (referenced in [Projects Section](#projects-section)).  Currently working to submit to CRAN and deploy the update in the next few months.
 
 ### Engineering Intern @ Elevance Health
 June - September 2023
@@ -64,9 +64,9 @@ Led the team to the NCAA National Championship game (2021 & 2022). The team is a
 ### ![Summer Spotlight Article](https://nescac.com/news/2023/8/10/summer-spotlight-caroline-walter-tufts-womens-lacrosse.aspx)
 
 ## Skills
-<Technical Skills:> R Programming Language, Python, JavaScript, SQL, C++, TypeScript, Bash, Markdown, Microsoft Excel, HTML, React, Node.js, GraphQL, REST API Development, SonarQube, Cypress, GitHub, GitLab, Docker, VSCode, Google GO, Tailwind CSS, Data Quality Control, Data Visualization, Data Analytics, Full-Stack Engineering, Database Management, Software Development Lifecycle. 
+**Technical Skills:** R Programming Language, Python, JavaScript, SQL, C++, TypeScript, Bash, Markdown, Microsoft Excel, HTML, React, Node.js, GraphQL, REST API Development, SonarQube, Cypress, GitHub, GitLab, Docker, VSCode, Google GO, Tailwind CSS, Data Quality Control, Data Visualization, Data Analytics, Full-Stack Engineering, Database Management, Software Development Lifecycle. 
 
-<Scientific Skills:> Bioinformatics, Computational Biology, Genomics, Metabolomics, Life Sciences, Biological Processes.  
+**Scientific Skills:** Bioinformatics, Computational Biology, Genomics, Metabolomics, Life Sciences, Biological Processes.  
 
 
 ## Awards
@@ -79,4 +79,6 @@ Led the team to the NCAA National Championship game (2021 & 2022). The team is a
 ## Contact Information
 Personal Email: carowalter26@hotmail.com
 Cell Phone: +1-631-624-5872
+LinkedIn URL: https://www.linkedin.com/in/caroline-walter-2a8592191 
+
 
