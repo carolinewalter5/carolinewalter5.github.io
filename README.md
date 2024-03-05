@@ -59,9 +59,10 @@ June - August 2021
 ## Extracurriculars 
 ### TUFTS UNIVERSITY NCAA DIVISION III WOMEN’S LACROSSE TEAM MEMBER
 Led the team to the NCAA National Championship game (2021 & 2022). The team is annually ranked top five in the nation. Successfully managed demanding expectations in the classroom and on the team, fostering teamwork, discipline, and great communication.
+
 ![Playing](/assets/img/playing.JPG)
 ### [Player Profile](https://gotuftsjumbos.com/sports/womens-lacrosse/roster/caroline-walter/12558)
-### ![Summer Spotlight Article](https://nescac.com/news/2023/8/10/summer-spotlight-caroline-walter-tufts-womens-lacrosse.aspx)
+### [Summer Spotlight Article](https://nescac.com/news/2023/8/10/summer-spotlight-caroline-walter-tufts-womens-lacrosse.aspx)
 
 ## Skills
 **Technical Skills:** R Programming Language, Python, JavaScript, SQL, C++, TypeScript, Bash, Markdown, Microsoft Excel, HTML, React, Node.js, GraphQL, REST API Development, SonarQube, Cypress, GitHub, GitLab, Docker, VSCode, Google GO, Tailwind CSS, Data Quality Control, Data Visualization, Data Analytics, Full-Stack Engineering, Database Management, Software Development Lifecycle. 
@@ -78,7 +79,9 @@ Led the team to the NCAA National Championship game (2021 & 2022). The team is a
 
 ## Contact Information
 Personal Email: carowalter26@hotmail.com
+
 Cell Phone: +1-631-624-5872
+
 LinkedIn URL: https://www.linkedin.com/in/caroline-walter-2a8592191 
 
 
