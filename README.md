@@ -50,10 +50,10 @@ June - August 2021
 
 ### Freelance Video Creation and Design Editor
 2021 - Present
-- Create highlight reels for student-athletes looking to get recruited
-- Create picture edits for recruitment purposes. (College commitments, Thank you edits for showcases/camps)
+- Create highlight reels for student-athletes looking to get recruited.
+- Create photo edits for recruitment and commitment purposes.
 
-
+![Canva Edits](/assets/img/canva_edits)
 
 
 ## Extracurriculars 
