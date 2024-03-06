@@ -53,7 +53,7 @@ June - August 2021
 - Create highlight reels for student-athletes looking to get recruited.
 - Create photo edits for recruitment and commitment purposes.
 
-![Canva Edits](/assets/img/canva_edits.png)
+![Canva Edits](/assets/img/Screenshot 2024-03-05 at 9.20.58 PM.png)
 
 
 ## Extracurriculars 
