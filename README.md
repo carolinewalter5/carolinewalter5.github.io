@@ -1,8 +1,8 @@
 # About Me...
 
 ## Education
-### B.S., Computational Biology | Tufts University (_December 2023_)
-- Graduated Magna Cum Laude with a GPA of 3.70. Interdisciplinary Studies Major Combining Computer Science, Biology, and Applied Mathematics.
+### B.S., Computational Biology (Computer Science, Biology, Applied Mathematics) | Tufts University (_December 2023_)
+- Graduated Magna Cum Laude with a GPA of 3.70. Department of Interdisciplinary Studies. 
 
 <a id="projects-section"></a>
 ## Projects 
@@ -53,7 +53,7 @@ June - August 2021
 - Create highlight reels for student-athletes looking to get recruited.
 - Create photo edits for recruitment and commitment purposes.
 
-![Canva Edits](/assets/img/canva_edits)
+![Canva Edits](/assets/img/canva_edits.png)
 
 
 ## Extracurriculars 
